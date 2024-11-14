@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Мой любимый фильм</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Название фильма</h1>
+    </header>
+
+    <section id="description">
+        <h2>Описание фильма</h2>
+        <p>Краткое описание сюжета фильма. Опишите, о чем фильм, его основные темы и атмосферу.</p>
+    </section>
+
+    <section id="actors">
+        <h2>Актёры</h2>
+        <ul>
+            <li>Актёр 1 — Роль 1</li>
+            <li>Актёр 2 — Роль 2</li>
+            <li>Актёр 3 — Роль 3</li>
+        </ul>
+    </section>
+
+    <section id="rating">
+        <h2>Рейтинг</h2>
+        <p>Рейтинг: 8.5/10</p>
+        <p>Краткий отзыв: Это потрясающий фильм, который стоит посмотреть всем любителям жанра!</p>
+    </section>
+
+    <section id="poster">
+        <img src="poster.jpg" alt="Постер фильма" />
+    </section>
+</body>
+</html>
